@@ -10,13 +10,12 @@
     background-color: blue;
     min-height: 4vh;
     color: white;
-    margin: 1vh;
+    
 }
 
 .left {
     display: flex;
     background-color: darkgreen;
-    margin: 1vh;
     color: white;
     justify-content: center;
     align-items: center;
@@ -26,11 +25,10 @@
 .right {
     display: flex;
     background-color: darkcyan;
-    margin: 1vh;
     color: white;
     justify-content: center;
     align-items: center;
-    min-height: 80vh;
+    min-height: 92vh;
 }
 
 .foot {
@@ -40,5 +38,4 @@
     background-color:darkseagreen;
     min-height: 4vh;
     color: white;
-    margin: 1vh;
 }
