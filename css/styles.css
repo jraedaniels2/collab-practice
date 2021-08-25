@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    min-height: 4vh;
+    color: white;
+    
+}
+
+.left {
+    display: flex;
+    background-color: darkgreen;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+
+.right {
+    display: flex;
+    background-color: darkcyan;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    min-height: 92vh;
+}
+
+.foot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:darkseagreen;
+    min-height: 4vh;
+    color: white;
+}
