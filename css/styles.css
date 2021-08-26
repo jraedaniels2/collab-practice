@@ -3,6 +3,19 @@
     padding: 0;
 }
 
+.jumbo {
+    margin: 2rem;
+    border-radius: .3rem;
+    padding: 4rem 2rem;
+    background-color: #e9ecef;
+
+
+}
+
+.JumboText1 {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
 .navbar {
     display: flex;
     justify-content: center;
